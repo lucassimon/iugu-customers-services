@@ -1,0 +1,6 @@
+-r base.txt
+
+pytest
+pytest-cov
+coverage-badge
+pytest-runner==4.2

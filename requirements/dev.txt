@@ -1,0 +1,7 @@
+-r test.txt
+
+ipdb
+isort
+flake8
+pycodestyle
+pylint
