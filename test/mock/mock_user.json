@@ -1,0 +1,10 @@
+{
+    "app": "flask-api-users",
+    "payload": {
+        "full_name": "Teste",
+        "cpf": "64891576243",
+        "phone_prefix": "31",
+        "phone": "2132132132",
+        "email": "teste@teste.com"
+    }
+}
